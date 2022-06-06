@@ -27,9 +27,10 @@ From the Duckett JS book:
 
 - Introduction
 - JS **Chapter 1: “The ABC of Programming”** (pp.11-52)
-    - **A** - **What is a script** and how do I create one?
-    - **B** - How do computers fit in the world around them?
-    - **C** - **How do I write a script** for a webpage? 
+    - <span style="color: #fffdd0">**A**  - **What is a script**</span> and how do I create one?
+    - **Script is a series of instructions** that a computer can follow to achieve a goal
+    - <span style="color: #fffdd0">**B** </span> - How do computers fit in the world around them?
+    - <span style="color: #fffdd0">**C**  - **How do I write a script**</span> for a webpage? 
 
 
 ----------
@@ -37,5 +38,5 @@ From the Duckett JS book:
 ### Things I want to know more about
 
 - I'd like to know more about the **elements of the boilerplate**.
-- **iframes** seems extremely useful and powerful.  I'd like to know more.
+- **iframes** seem extremely useful and powerful.  I'd like to know more.
 - 
