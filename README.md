@@ -6,7 +6,7 @@
 |  Day  |      Assignment     |   Date   |
 | :---: | ------------------- | -------: |
 | 1 | [Introductory HTML and JavaScript](./201/class-01.md)   | 5 June |
-| 2 |  |  |
+| 2 | [Basics of HTML, CSS, & JS](./201/class-02.md) | 7 June |
 | 3 |  |  |
 | 4 |  |  |
 | 5 |  |  |
