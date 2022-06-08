@@ -7,7 +7,7 @@
 | :---: | ------------------- | -------: |
 | 1 | [Introductory HTML and JavaScript](./201/class-01.md)   | 5 June |
 | 2 | [Basics of HTML, CSS, & JS](./201/class-02.md) | 7 June |
-| 3 |  |  |
+| 3 | [HTML Lists, CSS Boxes, JS Control Flow](/201/class-03.md) | 8 June |
 | 4 |  |  |
 | 5 |  |  |
 | 6 |  |  |

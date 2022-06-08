@@ -37,17 +37,21 @@ Ch2: “**Basic JavaScript Instructions**” (pp.53-84)
         - each statement is a step in an algorythm or recipe
     - contain percise instructions
 - <span style="color: #fffdd0">**Variables**</span>: used to hold pieces of information
-    - let - temporary
-    - const - permanent (if used to define something like a dictionary or list, then the dictionary type is permanent, the information inside can change)
+    - <span style="color: #fffdd0">**let**</span> - temporary
+    - <span style="color: #fffdd0">**const**</span> - permanent (if used to define something like a dictionary or list, then the dictionary type is permanent, the information inside can change)
 - Information types:
     - <span style="color: #fffdd0">**Array**</span>: list type
-    - <span style="color: #fffdd0">**Number**</span>: 
-    - <span style="color: #fffdd0">**String**</span>:
-    - <span style="color: #fffdd0">**Boolean**</span>:
+    - <span style="color: #fffdd0">**Number**</span>: numbers and floats 
+    - <span style="color: #fffdd0">**String**</span>: 
+    - <span style="color: #fffdd0">**Boolean**</span>: 0 and 1, true and false
 - <span style="color: #fffdd0">**Expressions**</span>: evaluate into a single value
     - rely on operators to calculate that value
 
 Ch4: “**Decisions and Loops**” only up to the section on switch statements (pp.145-162)
+- chapter shows how to create and control the flow of data in your scripts
+- <span style="color: #fffdd0">**Evaluations**</span>:
+- <span style="color: #fffdd0">**Decisions**</span>:
+- <span style="color: #fffdd0">**Loops**</span>: 
 - <span style="color: #fffdd0">**Conditional Statements**</span>: 
     - allow code to make decisions on what to do next
 - <span style="color: #fffdd0">**Comparison Operators**</span>
