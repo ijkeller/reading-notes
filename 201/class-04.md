@@ -75,3 +75,4 @@ let volumeOne = getSize(3, 2, 3)[1];
 - does absolute positioning need the parent element to be set to relative?
 - how does box-sizing: border-box; relate to this  
 - how memory and variables work, a little deep for me now
+- how are information types objects? ex string and number
