@@ -25,6 +25,15 @@ From the Duckett JS book:
   - covers arrays
 - Ch4: “**Decisions and Loops**” from **switch statements** on (pp.162-182)
   - covers if else statements
+  - for loops etc
+
+**For Loop Example**
+
+```js
+for (let itterator = 0; i < numberOfAllowedAttempts; itteration++) {
+  alert('do this');
+}
+```
 
 -----------
 
