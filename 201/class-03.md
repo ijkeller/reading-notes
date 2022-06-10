@@ -27,7 +27,7 @@ From the Duckett JS book:
   - covers if else statements
   - for loops etc
 
-**For Loop Example**
+**For Loop**
 
 ```js
 for (let itterator = 0; i < numberOfAllowedAttempts; itteration++) {

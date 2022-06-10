@@ -12,7 +12,7 @@
 | 2 | [Basics of HTML, CSS, & JS](./201/class-02.md) | 7 June |
 | 3 | [HTML Lists, CSS Boxes, JS Control Flow](./201/class-03.md) | 8 June |
 | 4 | [HTML Links, JS Functions, and Intro to CSS Layout](/201/class-04.md) | 9 June |
-| 5 |  |  |
+| 5 | [HTML Images; CSS Color & Text](./201/class-05.md) | 10 June |
 | 6 |  |  |
 | 7 |  |  |
 | 8 |  |  |
