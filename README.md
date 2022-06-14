@@ -15,14 +15,14 @@
 | 5 | [HTML Images; CSS Color & Text](./201/class-05.md) | 10 June |
 | 6 | [JS Object Literals; The DOM](/201/class-06.md) | 13 June |
 | 7 | [HTML Tables; JS Constructor Functions](/201/class-07.md) | 14 June |
-| 8 | [](/201/class-08.md) |  |
-| 9 | [](/201/class-09.md) |  |
-| 10 | [](/201/class-10.md) |  |
-| 11 | [](/201/class-11.md) |  |
-| 12 | [](/201/class-12.md) |  |
-| 13 | [](/201/class-13.md) |  |
-| 14 | [](/201/class-14.md) |  |
-| 15 | [](/201/class-15.md) |  |
+| 8 | [More CSS Layout](/201/class-08.md) | 15 June |
+| 9 | [Forms and Events](/201/class-09.md) | 16 June |
+| 10 | [JS Debugging](/201/class-10.md) | 17 June |
+| 11 | [Assorted Topics](/201/class-11.md) | 20 June |
+| 12 | [Docs for the HTML <canvas> Element & Chart.js](/201/class-12.md) | 21 June |
+| 13 | [Local Storage ](/201/class-13.md) | 22 June |
+| 14a | [CSS Transforms, Transitions, and Animations](/201/class-14.md) | 23 June |
+| 14b | [What Google Learned About Teams](/201/class-15.md) | 23 June |
 
 ------------
 
