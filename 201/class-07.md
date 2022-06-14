@@ -1,4 +1,4 @@
-Readings: Object-Oriented Programming, HTML Tables
+## Readings: Object-Oriented Programming, HTML Tables
 
 [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
 
@@ -22,7 +22,7 @@ Readings: Object-Oriented Programming, HTML Tables
     - constructors build objects
     - is a function and saves repetitive code in the same way
 - How does the term <span style="color:#990000">**this**</span> differ when used in an object literal versus when used in a constructor?
-    - **STILL NEED TO ANSWER**
+    - in a constructor <span style="color:#990000">**this**</span> is used to indicate the individual instance of every one created by that constructor.  When <span style="color:#990000">**this**</span> is used in an object literal it is only used for that individual instance.  Otherwise they are the same.
 
 [Object Prototypes Using A Constructor](https://ui.dev/beginners-guide-to-javascript-prototype)
 
