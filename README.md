@@ -21,8 +21,8 @@
 | 11 | [Assorted Topics](/201/class-11.md) | 20 June |
 | 12 | [Docs for the HTML <canvas> Element & Chart.js](/201/class-12.md) | 21 June |
 | 13 | [Local Storage ](/201/class-13.md) | 22 June |
-| 14a | [CSS Transforms, Transitions, and Animations](/201/class-14.md) | 23 June |
-| 14b | [What Google Learned About Teams](/201/class-15.md) | 23 June |
+| 14a | [CSS Transforms, Transitions, and Animations](/201/class-14a.md) | 23 June |
+| 14b | [What Google Learned About Teams](/201/class-14b.md) | 23 June |
 
 ------------
 
