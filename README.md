@@ -26,6 +26,26 @@
 
 ------------
 
+## Code 301 - Intermediate Software Development
+
+|  Day  |      Assignment     |   Date   |
+| :---: | ------------------- | -------: |
+| 1 | []()] |  |
+| 2 | []()] |  |
+| 3 | []()] |  |
+| 4 | []()] |  |
+| 5 | []()] |  |
+| 6 | []()] |  |
+| 7 | []()] |  |
+| 8 | []()] |  |
+| 9 | []()] |  |
+| 10 | []()] |  |
+| 11 | []()] |  |
+| 12 | []()] |  |
+| 13 | []()] |  |
+
+---------------
+
 ### [Readings Overview](https://canvas.instructure.com/courses/4824838/discussion_topics/14848973?module_item_id=66431856)
 
 In Code 201, there is a lot of reading to cover, especially in the first half of the course. It’s more important to <mark>**focus on concepts**</mark>, and to <mark>**know where to find examples**</mark> in the textbooks, than it is to try to read every word.
