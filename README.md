@@ -30,8 +30,8 @@
 
 |  Day  |      Assignment     |   Date   |
 | :---: | ------------------- | -------: |
-| 1 | []() |  |
-| 2 | []() |  |
+| 1 | [Introduction to React and Components](./301/class-01.md) | Jul 11 |
+| 2 | [State and Props](./301/class-02.md) | Jul 12 |
 | 3 | []() |  |
 | 4 | []() |  |
 | 5 | []() |  |
