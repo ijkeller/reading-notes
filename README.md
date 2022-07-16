@@ -32,17 +32,17 @@
 | :---: | ------------------- | -------: |
 | 1 | [Introduction to React and Components](./301/class-01.md) | Jul 11 |
 | 2 | [State and Props](./301/class-02.md) | Jul 12 |
-| 3 | []() |  |
-| 4 | []() |  |
-| 5 | []() |  |
-| 6 | []() |  |
-| 7 | []() |  |
-| 8 | []() |  |
-| 9 | []() |  |
-| 10 | []() |  |
-| 11 | []() |  |
-| 12 | []() |  |
-| 13 | []() |  |
+| 3 | [Passing Functions as Props](./301/class-03.md) | Jul 13 |
+| 4 | [React and Forms](./301/class-04.md) | Jul 14 |
+| 5 | [](./301/class-05.md) | Jul 15 |
+| 6 | [https://www.meetup.com/las-vegas-artificial-intelligence-deep-learning/](./301/class-06.md) |  |
+| 7 | [](./301/class-07.md) |  |
+| 8 | [](./301/class-08.md) |  |
+| 9 | [](./301/class-09.md) |  |
+| 10 | [](./301/class-10.md) |  |
+| 11 | [](./301/class-11.md) |  |
+| 12 | [](./301/class-12.md) |  |
+| 13 | [](./301/class-13.md) |  |
 
 ---------------
 
