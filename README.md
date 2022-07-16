@@ -35,7 +35,7 @@
 | 3 | [Passing Functions as Props](./301/class-03.md) | Jul 13 |
 | 4 | [React and Forms](./301/class-04.md) | Jul 14 |
 | 5 | [Putting it all together](./301/class-05.md) | Jul 15 |
-| 6 | [https://www.meetup.com/las-vegas-artificial-intelligence-deep-learning/](./301/class-06.md) |  |
+| 6 | [NODE.JS](./301/class-06.md) |  |
 | 7 | [](./301/class-07.md) |  |
 | 8 | [](./301/class-08.md) |  |
 | 9 | [](./301/class-09.md) |  |
